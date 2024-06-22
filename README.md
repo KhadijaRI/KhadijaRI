@@ -1,3 +1,11 @@
+<!--Banner-->
+![Banner Image](./banner.png)
+
+<div>
+  <img align="right" width="40%" src="./image.png">
+</div>
+
+
 <h1 align="center">Hello 👋, I'm Khadija</h1>
 <h3 align="center">A passionate Full Stack from Morocco 🇲🇦</h3>
 
