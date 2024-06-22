@@ -2,7 +2,7 @@
 ![Banner Image](./banner.jpg)
 
 <div>
-  <img align="right" width="40%" src="./image.jpg">
+  <img align="right" width="40%" src="./image.png">
 </div>
 
 
