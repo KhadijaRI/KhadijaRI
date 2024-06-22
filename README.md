@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Khadija</h1>
 <h3 align="center">A passionate Full Stack from Morocco 🇲🇦</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadijarej" alt="khadijarej" /></a> </p>
 
 - 🚀 I'm currently being mentored by Mohammed Abu-Hadhoud, who has over 28 years of experience in programming and establishing companies **C++, C#, OOP, DB, DSA....**
 
 - 💬 Ask me about **C++**
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijarej&" alt="khadijarej" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +17,3 @@
 <a href="https://instagram.com/instgram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instgram" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijarej&" alt="khadijarej" /></p>
