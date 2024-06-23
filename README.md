@@ -1,12 +1,10 @@
 <!--Banner-->
-![Banner Image](./banner-img.jpg)
+![Banner Image](./banner-1.jpg)
 
 
 <h1 align="center">Hello 👋, I'm Khadija</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 <br>
-
-<img align = "right" alt="coding" width = "400" src = "./image.png">
 
 - 🚀 I'm currently being mentored by Mohammed Abu-Hadhoud, who has over 28 years of experience in programming and establishing companies **C++, C#, OOP, DB, DSA....**
 
