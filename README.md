@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner.jpg)
+![Banner Image](./banner1.jpg)
 
 
 <h1 align="center">Hello 👋, I'm Khadija</h1>
