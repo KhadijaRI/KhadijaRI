@@ -7,7 +7,9 @@
 <br>
 
 - 🚀 I'm currently being mentored by Mohammed Abu-Hadhoud, who has over 28 years of experience in programming and establishing companies **C++, C#, OOP, DB, DSA....**
-
+- 🎯 Striving to build innovative solutions and contribute to the developer community.
+- 📚 Always learning and experimenting with new technologies. I love solving complex problems and building scalable solutions.
+- 📝 Check out my latest projects and contributions below. Let's collaborate and create something amazing together!
 - 💬 Ask me about **C++**
 
 <h3 align="left">Connect with me:</h3>
