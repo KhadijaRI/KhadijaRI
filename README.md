@@ -12,14 +12,17 @@
 - 📝 Check out my latest projects and contributions below. Let's collaborate and create something amazing together!
 - 💬 Ask me about **C++**
 
-<p align="left">
-<a href="https://x.com/AlgorithmicLady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khadijari" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/khadija-ri-67269a294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija-ri" height="30" width="40" /></a>
-</p>
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadijari" alt="GitHub Streak Stats">
 </div>
+
+<h3 align="left">Connect me:</h3>
+
+<p align="left">
+<a href="https://x.com/AlgorithmicLady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khadijari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadija-ri-67269a294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija-ri" height="30" width="40" /></a>
+</p>
 
 
 
